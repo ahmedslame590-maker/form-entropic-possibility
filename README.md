@@ -1,6 +1,6 @@
 # Form As The Determinant Of Entropic Possibility: A Topological Framework For Quantum Information And Spacetime Constraints
 
-[![OSF Pre-registration](https://img.shields.io/badge/OSF-Pre--registered-blue)](https://osf.io/)
+[![OSF DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FGVA4W-blue)](https://doi.org/10.17605/OSF.IO/GVA4W)
 [![Framework](https://img.shields.io/badge/Quantum_Framework-Google_Cirq-orange)](https://quantumai.google/cirq)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
@@ -28,4 +28,4 @@ $$\text{TSE} = \frac{\text{Fidelity}_{\text{Experimental}} - \text{Fidelity}_{\t
 
 ## Citation
 If you use this framework or protocol in your research, please cite:
-> Abdullah, A. A. A. (2026). *Form As The Determinant Of Entropic Possibility: A Topological Framework For Quantum Information And Spacetime Constraints*. OSF / GitHub Repository.
+> Abdullah, A. A. A. (2026). *Form As The Determinant Of Entropic Possibility: A Topological Framework For Quantum Information And Spacetime Constraints*. OSF. https://doi.org/10.17605/OSF.IO/GVA4W
